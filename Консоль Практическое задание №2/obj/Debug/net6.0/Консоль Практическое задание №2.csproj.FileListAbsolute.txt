@@ -1,0 +1,18 @@
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\bin\Debug\net6.0\Консоль Практическое задание №2.exe
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\bin\Debug\net6.0\Консоль Практическое задание №2.deps.json
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\bin\Debug\net6.0\Консоль Практическое задание №2.runtimeconfig.json
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\bin\Debug\net6.0\Консоль Практическое задание №2.dll
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\bin\Debug\net6.0\Консоль Практическое задание №2.pdb
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.csproj.AssemblyReference.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.AssemblyInfoInputs.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.AssemblyInfo.cs
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.csproj.CoreCompileInputs.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.dll
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\refint\Консоль Практическое задание №2.dll
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.pdb
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.genruntimeconfig.cache
+C:\Users\mzhegulin-21\source\repos\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\ref\Консоль Практическое задание №2.dll
+C:\Users\User\Documents\MDK 01.02\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.dll
+C:\Users\User\Documents\MDK 01.02\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\refint\Консоль Практическое задание №2.dll
+C:\Users\User\Documents\MDK 01.02\Консоль Практическое задание №2\Консоль Практическое задание №2\obj\Debug\net6.0\Консоль Практическое задание №2.pdb
